@@ -9,7 +9,7 @@ nav_order: 1
 
 - Pre-workshop activities: 10 min 
 - Introductory presentation: 10 min
-- Hands-on activities: 40-60 min
+- Hands-on activities: 40 min
 
 ## About the Workshop 
 
