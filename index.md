@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Introduction 
+title: AI for Literature Reviews 
 nav_order: 1
 ---
 **UPDATE PHOTO**
