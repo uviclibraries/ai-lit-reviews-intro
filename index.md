@@ -4,7 +4,7 @@ title: AI for Literature Reviews
 nav_order: 1
 ---
 **UPDATE PHOTO**
-<img src="images/ai-lit-review-logo.png" style="float:right;width:180px;" alt="image description">
+<img src="images/ai-lit-review-logo.jpeg" style="float:right;width:180px;" alt="image description">
 
 # AI Tools for Literature Reviews (Introduction)
 
