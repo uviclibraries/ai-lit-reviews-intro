@@ -4,23 +4,27 @@ title: AI for Literature Reviews
 nav_order: 1
 ---
 **UPDATE PHOTO**
-<img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
+<img src="images/ai-lit-review-logo.png" style="float:right;width:180px;" alt="image description">
 
-# AI: Tools for Literature Reviews (Introduction)
+# AI Tools for Literature Reviews (Introduction)
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 10 min 
+- Introductory presentation: 10 min
+- Hands-on activities: 40-60 min
 
-## Why TOOL NAME HERE? 
+## About the Workshop 
 
-[TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
+Workshop participants will explore the use of Generative AI (GenAI) to assist with Student Research for idea generation, and literature reviews, and consider ethical considerations such as plagiarism, privacy, and research integrity. Participants will gain a basic understanding of GenAI and the ethical implications of its use in student research. In the hands-on portion of the workshop, participants will explore GenAI tool usage and output evaluation for accuracy and biases. The workshop will also cover UVic policies, attribution methods, library resource integration, and campus support services, to encourage informed, responsible GenAI use.
 
-## Learning objectives - UPDATE FOR THE NEW TOOL
+## Learning objectives
 
 At the end of this workshop, you will be able to:
 
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. **MORE OBJECTIVES**
+1. Ethical Considerations: Discuss the ethical implications of using GenAI in academic work, including issues related to plagiarism, data privacy, and research integrity.
+2. Apply strategies such as critical review of terms and conditions, and adjustments to privacy settings to address AI ethics and safety issues.
+3. Identify specific use cases for a range of AI tools for literature reviews.
+4. Demonstrate how to use AI tools effectively for literature reviews and other research purposes
+5. Evaluate Quality and Reliability: Critically evaluate the outputs of AI tools, including assessing accuracy, relevance, and potential biases.
+6. Attribution: Cite outputs from GenAI tools using APA, MLA, IEEE, or other citation styles.
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
