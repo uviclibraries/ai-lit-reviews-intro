@@ -25,5 +25,13 @@ At the end of this workshop, you will be able to:
 4. Demonstrate how to use AI tools effectively for literature reviews and other research purposes
 5. Evaluate Quality and Reliability: Critically evaluate the outputs of AI tools, including assessing accuracy, relevance, and potential biases.
 6. Attribution: Cite outputs from GenAI tools using APA, MLA, IEEE, or other citation styles.
+
+## Generative AI Workshop Pathway
+
+This workshop is part of our Generative AI Workshop Pathway. GenAI tools can be helpful for subject-area experts, making their work more efficient, however, for those who lack expertise in a specific field, these tools can lead to problems. These workshops are designed to help subject area experts and non-experts, and help meet the needs of students, faculty, & staff by offering foundational to advanced research & productivity skills training:
+
+- **[Introductory](https://uviclibraries.github.io/genai-pathway/#introductory-workshops){:target="_blank"}**
+- **[Intermediate](https://uviclibraries.github.io/genai-pathway/#intermediate-workshops){:target="_blank"}**
+- **[Advanced](https://uviclibraries.github.io/genai-pathway/#intermediate-workshops){:target="_blank"}**
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
