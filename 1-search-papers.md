@@ -71,4 +71,4 @@ Semantic Scholar Training Data sources: _Web scraping_ (including Open Access da
 >  - How can you verify the accuracy of the summary?
 >  - Does this look like a tool that could help you with your research?
 
-[NEXT STEP: Critically Review All GenAI Output](3-critial-review.html){: .btn .btn-blue }
+[NEXT STEP: Cite All AI Output Properly](3-cite.html){: .btn .btn-blue }
