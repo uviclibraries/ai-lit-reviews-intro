@@ -6,16 +6,18 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-# Undermind.ai - UNDER CONSTRUCTION
+# Undermind.ai
+# UNDER CONSTRUCTION
 <img src="images/undermind-logo.png" style="float:right;width:400px;" alt="Undermind.ai logo"> 
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
-Elicit AI is a research assistant tool that utilizes natural language processing to help users extract insights from academic papers and data. It makes a consolidated summary of the top 4 papers on the topic (in its judgment) and gives you links to 8 other related papers. Don’t depend on the summaries being 100% accurate!
+Undermind.ai is a research assistant tool that... Don’t depend on the summaries being 100% accurate!
 
-Elicit Training Data sources: _Web scraping_ (including Open Access data) & _Indexing agreements with 50 publishers_.
+Undermind.ai Training Data sources: **RESEARCH & UPDATE**: _Web scraping_ (including Open Access data) & _Indexing agreements with 50 publishers_.
 
 1. Let’s do a search in Elicit on the same topic this time using more natural language.
-  - Open [Elicit](https://elicit.com/){:target="_blank"}, and if you want to use it you’ll need to create an account.
+  - Open [Undermind.ai](https://www.undermind.ai/){:target="_blank"}, and if you want to use it you’ll need to create an account.
+  - **Update everything below...**
   - Type the following into the search bar and click the search button:
 <br>```How useful is informal credentialling for academic makerspace skills in student job searches?```<br>
   - Try searching for information about a topic that you are interested in to further explore the capabilities of Elicit. Be curious and have some fun!
