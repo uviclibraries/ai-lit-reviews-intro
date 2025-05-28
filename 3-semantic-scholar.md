@@ -20,10 +20,10 @@ Semantic Scholar Training Data sources: _Web scraping_ (including Open Access da
   - In Semantic Scholar, try doing a keyword search for a topic you know a lot about so that you can evaluate the quality of the results.
   - Now try the same search in [Google Scholar](https://scholar.google.com){:target="_blank"} and compare the Semantic Scholar results with Google Scholar.
 2. Reflection time:
->  - How useful do the articles look informal credentialling for academic makerspace skills in student job searches?
->  - Compared to the Google Scholar results how high is the quality of the articles Semantic Scholar found?
+>  - How useful do the articles make informal credentialing look for academic makerspace skills in student job searches?
+>  - Compared to the Google Scholar results, how high is the quality of the articles Semantic Scholar found?
 >  - Do the article summaries look reasonable?
 >  - How can you verify the accuracy of the summary?
 >  - Does this look like a tool that could help you with your research?
 
-[NEXT STEP: REPLACE ME](#){: .btn .btn-blue }
+[NEXT STEP: Undermind.ai](4-undermind.html){: .btn .btn-blue }
