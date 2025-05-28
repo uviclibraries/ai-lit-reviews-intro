@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 3 - Cite Properly
-nav_order: 5
+title: 9 - Cite Properly
+nav_order: 10
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
