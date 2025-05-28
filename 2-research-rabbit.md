@@ -21,9 +21,9 @@ ResearchRabbit Training Data sources: _Microsoft Academic Graph_.
   - Now try the same search in [Google Scholar](https://scholar.google.com){:target="_blank"} and compare the ResearhRabbit results with Google Scholar.
 2. Reflection time:
 >  - Do the suggested "Similar Work", "Earlier Work", and "Later Work" look relevant and useful?
->  - Compared to the Google Scholar results how high is the quality of the articles ResearchRabbit found?
+>  - Compared to the Google Scholar results, how high is the quality of the articles ResearchRabbit found?
 >  - Does the network map of articles look like it might be helpful for you in your research?
->  - How useful do the articles look informal credentialling for academic makerspace skills in student job searches?
->  - Overall does this look like a tool that could help you with your research?
+>  - How useful do the articles look as informal credentialing for academic makerspace skills in student job searches?
+>  - Overall, does this look like a tool that could help you with your research?
 
-[NEXT STEP: REPLACE Text](#){: .btn .btn-blue }
+[NEXT STEP: Semantic Scholar](3-semantic-scholar.html){: .btn .btn-blue }
