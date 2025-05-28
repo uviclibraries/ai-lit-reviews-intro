@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 # Undermind.ai - UNDER CONSTRUCTION
-<img src="images/1-research.png" style="float:right;width:320px;" alt="Elicit.ai logo"> 
+<img src="images/undermind-logo.png" style="float:right;width:400px;" alt="Undermind.ai logo"> 
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
 Elicit AI is a research assistant tool that utilizes natural language processing to help users extract insights from academic papers and data. It makes a consolidated summary of the top 4 papers on the topic (in its judgment) and gives you links to 8 other related papers. Don’t depend on the summaries being 100% accurate!
