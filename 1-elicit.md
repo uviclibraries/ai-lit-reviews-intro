@@ -30,4 +30,4 @@ Elicit Training Data sources: _Web scraping_ (including Open Access data) & _Ind
 >  - How can you verify the accuracy of the summary?
 >  - Does this look like a tool that could help you with your research?
 
-[NEXT STEP: Research Rabbit](2research-rabbit.html){: .btn .btn-blue }
+[NEXT STEP: Research Rabbit](2-research-rabbit.html){: .btn .btn-blue }
