@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-# Undermind.ai
+# Undermind.ai - UNDER CONSTRUCTION
 <img src="images/1-research.png" style="float:right;width:320px;" alt="Elicit.ai logo"> 
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
