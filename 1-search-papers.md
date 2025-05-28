@@ -1,16 +1,15 @@
 ---
 layout: default
-title: 1 - Search for Papers
+title: 1 - Elicit
 nav_order: 3
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-# Search for Papers (AKA Literature Reviews)
+# Elicit - Summaries of Top 4 Articles
 <img src="images/1-research.png" style="float:right;width:320px;" alt="Elicit.ai logo"> 
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
-## Elicit - Summaries of Top 4 Articles
 Elicit AI is a research assistant tool that utilizes natural language processing to help users extract insights from academic papers and data. It makes a consolidated summary of the top 4 papers on the topic (in its judgment) and gives you links to 8 other related papers. Don’t depend on the summaries being 100% accurate!
 
 Elicit Training Data sources: _Web scraping_ (including Open Access data) & _Indexing agreements with 50 publishers_.
@@ -51,4 +50,4 @@ Semantic Scholar Training Data sources: _Web scraping_ (including Open Access da
 >  - How can you verify the accuracy of the summary?
 >  - Does this look like a tool that could help you with your research?
 
-[NEXT STEP: Cite All AI Output Properly](3-cite.html){: .btn .btn-blue }
+[NEXT STEP: Research Rabbit](2research-rabbit.html){: .btn .btn-blue }
