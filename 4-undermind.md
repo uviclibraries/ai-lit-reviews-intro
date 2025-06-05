@@ -12,7 +12,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 **Two gentle reminders before you start:** 
 
 - Undermind.ai is a research assistant that employs both AI and GenAI to help you. It uses AI tools to try to find peer-reviewed resources related to your search and then uses GenAI to summarize the contents of peer-reviewed resources. As always with GenAI summaries, you can't depend on the summaries being 100% accurate all the time!
--  Undermind.ai is a useful tool, but please remember that it doesn ot have access to the whole universe of journal articles and peer reviewed resources. Training Data sources: **RESEARCH & UPDATE**: _Web scraping_ (including Open Access data) & _Indexing agreements with 50 publishers_.
+-  Undermind.ai is a useful tool, but please remember that it doesn ot have access to the whole universe of journal articles and peer-reviewed resources. The primary source of its training data sources is the [Semantic Scholar](https://www.semanticscholar.org/){:target="_blank"} database of articles.
 
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
