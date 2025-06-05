@@ -7,11 +7,12 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 # Undermind.ai
-## Two gentle reminders before you start:
+## Three gentle reminders before you start:
 <img src="images/undermind-logo.png" style="float:right;width:400px;" alt="Undermind.ai logo">
 
 - Undermind.ai is a research assistant that employs both AI and GenAI to help you find articles relevant to your research questions. It uses AI tools to find related articles and then uses GenAI to summarize the contents of resources. **As always with GenAI summaries, you can't depend on the summaries being 100% accurate all the time!** Please read the underlying articles before you quote or summarize information from an article.
 -  Undermind.ai is a useful tool, but please remember that it doesn ot have access to the whole universe of journal articles and peer-reviewed resources. The primary source of its training data sources is the [Semantic Scholar](https://www.semanticscholar.org/){:target="_blank"} database of articles, so you'll want to use other tools in conjunction with Undermind.ai so that you don't miss any important papers on your research topic that Undermind.ai does not have access to.
+-  You get 2 free searches .... Thenn... The free version of Undermind.ai only searches the abstracts of articles rather than the full text of articles, so ...
 
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
@@ -21,7 +22,8 @@ If you have any questions or get stuck as you work through this in-class GenAI e
 <br>```How useful is informal credentialling for academic makerspace skills in student job searches?```<br>
   - Undermind will prompt you to "sharpen" your search by asking you some follow-up questions. You are not required to answer them, but you will likely get more relevant results if you do follow the suggestions. Try the following and then press **Enter** on your keyboard:
 <br>```I am primarily interested in undergraduate students who have earned informal credentials from a university library-based makerspace. Provide evidence from both student self-report studies and employer-focused studies.```<br>
-  - You will be given additional suggestions on how to refine your search prompt, but for now, scroll down the web page and read the "Proposed Search Topic." If the search topic looks reasonable to you, press the **Generate Research Report** button at the bottom of the page.  
+  - You will be given additional suggestions on how to refine your search prompt, but for now, scroll down the web page and read the "Proposed Search Topic." If the search topic looks reasonable to you, press the **Generate Research Report** button at the bottom of the page.<br>
+<img src="images/5-undermind-gen-search.png" alt="Image showing the Generate Research Report dialog box."><br>
   - **Update everything below...**
   - Try searching for information about a topic that you are interested in to further explore the capabilities of Elicit. Be curious and have some fun!
 2. In Elicit, try doing a natural language search for a topic you know a lot about so that you can evaluate the quality of the results.
