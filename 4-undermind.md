@@ -11,9 +11,9 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 <img src="images/undermind-logo.png" style="float:right;width:400px;" alt="Undermind.ai logo"> 
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
-**Two gentle reminders before you start** 
-1. Undermind.ai is a research assistant that uses both AI to help you find... and GenAI to summarize the contents of peer reviewed resources, but as always, don’t depend on the summaries being 100% accurate and look at the text of the source if you think you might want to quote or summarize it!
-2. Undermind.ai Training Data sources: **RESEARCH & UPDATE**: _Web scraping_ (including Open Access data) & _Indexing agreements with 50 publishers_.
+**Two gentle reminders before you start:** 
+1. Undermind.ai is a research assistant that employs both AI and GenAI to help you. It uses AI tools to try to find peer-reviewed resources related to your search and then uses GenAI to summarize the contents of peer-reviewed resources. As always with GenAI summaries, you can't depend on the summaries being 100% accurate all the time!
+3. Undermind.ai Training Data sources: **RESEARCH & UPDATE**: _Web scraping_ (including Open Access data) & _Indexing agreements with 50 publishers_.
 
 1. Let’s do a search in Elicit on the same topic this time using more natural language.
   - Open [Undermind.ai](https://www.undermind.ai/){:target="_blank"}, and if you want to use it you’ll need to create an account.
