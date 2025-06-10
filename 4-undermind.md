@@ -12,7 +12,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 - Undermind.ai is a research assistant that employs both AI and GenAI to help you find articles relevant to your research questions. It uses AI tools to find related articles and then uses GenAI to summarize the contents of resources. **As always with GenAI summaries, you can't depend on the summaries being 100% accurate all the time!** Please read the underlying articles before you quote or summarize information from an article.
 -  Undermind.ai is a useful tool, but please remember that it doesn ot have access to the whole universe of journal articles and peer-reviewed resources. The primary source of its training data sources is the [Semantic Scholar](https://www.semanticscholar.org/){:target="_blank"} database of articles, so you'll want to use other tools in conjunction with Undermind.ai so that you don't miss any important papers on your research topic that Undermind.ai does not have access to.
--  **You get 2 free searches .... Then... The free version of Undermind.ai only searches the abstracts of articles rather than the full text of articles, so ...**
+- **When you sign up, you are given 2 free "deep" searches that search the full text of all the articles.** After that, unless you sign up for their paid level of service, Undermind.ai only searches the abstracts of articles to respond to your request and not the full text.
 
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
@@ -27,13 +27,11 @@ If you have any questions or get stuck as you work through this in-class GenAI e
 <img src="images/4-search-progress.png" style="float:right;width:400px;" alt="Undermind search progress bullet list">
   - The report should take between 5 and 8 minutes to generate. You can track the progress of what it's working on by monitoring the "Search Progress" on the right half of the page.
   - You can also see an "example report" by clicking on the **See an example report** purple button towards the right side of the page while you wait for your report to be generated.
-  - Please...
-  
+  - Please remember that
 2. Let's look at the re results!
   - 
   - Be curious and have some fun!
-
-4. Reflection time:
+3. Reflection time:
 >  - How useful do the articles look for your search?
 >  - Compared to the Google Scholar results how high is the quality of the articles Elicit found?
 >  - Does the combined 4 article summary look reasonable?
