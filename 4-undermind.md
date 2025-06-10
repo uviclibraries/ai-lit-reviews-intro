@@ -24,9 +24,8 @@ If you have any questions or get stuck as you work through this in-class GenAI e
 <br>```I am primarily interested in undergraduate students who have earned informal credentials from a university library-based makerspace. Provide evidence from both student self-report studies and employer-focused studies.```<br>
   - You will be given additional suggestions on how to refine your search prompt, but for now, scroll down the web page and read the "Proposed Search Topic." If the search topic looks reasonable to you, press the **Generate Research Report** button at the bottom of the page.<br>
 <img src="images/5-undermind-gen-search.png" style="width:600px;" alt="Image showing the Generate Research Report dialogue box."><br>
-
+<img src="images/4-search-progress.png" style="float:right;width:400px;" alt="Undermind search progress bullet list">
   - The report should take between 5 and 8 minutes to generate. You can track the progress of what it's working on by monitoring the "Search Progress" on the right half of the page.
-  <img src="images/4-search-progress.png" style="float:right;width:400px;" alt="Undermind search progress bullet list">
   - You can also see an "example report" by clicking on the **See an example report** purple button towards the right side of the page while you wait for your report to be generated.
   - Please...
   
