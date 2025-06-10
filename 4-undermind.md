@@ -29,7 +29,7 @@ If you have any questions or get stuck as you work through this in-class GenAI e
   - You can also see an "example report" by clicking on the **See an example report** purple button towards the right side of the page while you wait for your report to be generated.
   - Please remember that
 2. Let's look at the report results!
-  - **Discuss results with an expert**:
+  - **Discuss results with an expert**: If you have any follow up questions that came to mind while you were waiting for the report to generate, you can ask them here. Don't feel the need to ask them right away, as you can always ask them later. Based on the results, you could ask a follow-up question like this: ```Are there empirical studies that look at the students' perspective on how effective they think informal credentials are in helping them get a job?```
   - **Summary**:
   - **Categories**:
   - **Timeline**:
