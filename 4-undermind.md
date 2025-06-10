@@ -28,9 +28,14 @@ If you have any questions or get stuck as you work through this in-class GenAI e
   - The report should take between 5 and 8 minutes to generate. You can track the progress of what it's working on by monitoring the "Search Progress" on the right half of the page.
   - You can also see an "example report" by clicking on the **See an example report** purple button towards the right side of the page while you wait for your report to be generated.
   - Please remember that
-2. Let's look at the re results!
-  - 
-  - Be curious and have some fun!
+2. Let's look at the report results!
+  - **Discuss results with an expert**:
+  - **Summary**:
+  - **Categories**:
+  - **Timeline**:
+  - **Foundational work**:
+  - **Adjacent work**:
+  - **References**:
 3. Reflection time:
 >  - How useful do the articles look for your search?
 >  - Compared to the Google Scholar results how high is the quality of the articles Elicit found?
