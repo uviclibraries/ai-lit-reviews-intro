@@ -36,16 +36,16 @@ If you have any questions or get stuck as you work through this in-class GenAI e
   - **Key Findings & Limitations**: This section is created by Generative AI, so care should be taken to verify claims by going to the source document. Note that there are links after every claim to the papers that Undermind used as sources. Please click on one of the citation links and see if you can find where the source for the claim is in the journal article cited. Did you find it? Are the articles published in respected journals? Do you notice any high-quality articles that you already know about that are missing? If you used the provided search, there is at least one article that is missing: [Makerspace Workshop Badges: Student Perceptions & Uses of Informal Credentialing](https://ijamm.pubpub.org/pub/w2c3tfk4){:target="_blank"}<br>
 <img src="images/4-undermind-findings.png" style="width:700px;" alt="Key Findings information.">
   - **Categories**: The categories section uses GenAI to summarize different aspects of the topic(s) you are researching, and provides links to the source journal articles for the claims made. This can be a useful way to find articles for subtopics you are interested in or would like to focus on.
-  - **Timeline**: Give you a graph of references over time by year so that you can get a sense for when the most relevant research to your questions was conducted, as well as the trend in the amount of research being done. The Timeline also provides a history of the development of ideas, and links to the relevant papers as the academic conversation on this topic progressed. Research clusters are also identified with related citations. Lastly, key contributions and conceptual shifts over time.
+  - **Timeline**: Give you a graph of references over time by year so that you can get a sense for when the most relevant research to your questions was conducted, as well as the trend in the amount of research being done. The Timeline also provides a history of the development of ideas and links to the relevant papers as the academic conversation on this topic progressed. Research clusters are also identified with related citations. Lastly, key contributions and conceptual shifts over time.
   - **Foundational work**: This section attempts to identify foundational work.
   - **Adjacent work**: This section might help you identify other high-quality work that might not be directly related to your research topic, but might be helpful nonetheless.
   - **References**: Lastly is the reference section at the bottom that is a table of research papers that Undermind.ai is citing and summarizing. Note that an estimated percentage relevance to your topic is provided along with the publishing date, citation count, and GenAI summary of the paper.<br>
 <img src="images/4-undermind-interface.png" style="width:700px;" alt="Undermind.ai interface.">
-  - **Undermind followup queries**: <br>
+  - **Undermind followup queries**: If you have any follow-up questions or would like to refine your query, here is where you'd do that.<br>
 <img src="images/4-undermind-help.png" style="float:right;width:400px;" alt="Undermind.ai follow up queries"><br>
 3. Reflection time:
->  - How useful are the articles Undermind.ai found are for your search?
->  - Compared to the Google Scholar results how high is the quality of the articles Undermind.ai found?
+>  - How useful are the articles Undermind.ai found for your search?
+>  - Compared to the Google Scholar results, how high is the quality of the articles Undermind.ai found?
 >  - Do the GenAI summaries look reasonable? 
 >  - Have you verified major claims related to your research question for accuracy?
 >  - Does this look like a tool that could help you with your research?
