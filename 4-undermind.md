@@ -25,12 +25,12 @@ If you have any questions or get stuck as you work through this in-class GenAI e
 <br>```How useful is informal credentialling for academic makerspace skills in student job searches?```<br>
   - Undermind will prompt you to "sharpen" your search by asking you some follow-up questions. You are not required to answer them, but you will likely get more relevant results if you do follow the suggestions. Copy and paste the following into the text box and then press **Enter** on your keyboard:
 <br>```I am primarily interested in undergraduate students who have earned informal credentials from a university library-based makerspace. Provide evidence from both student self-report studies and employer-focused studies.```<br>
-  - You will be given additional suggestions on how to refine your search prompt, but for now, scroll down the web page and read the "Proposed Search Topic." If the search topic looks reasonable to you, press the **Generate Research Report** button at the bottom of the page.<br>
-<img src="images/5-undermind-gen-search.png" style="width:600px;" alt="Image showing the Generate Research Report dialogue box."><br>
 <img src="images/4-search-progress.png" style="float:right;width:400px;" alt="Undermind search progress bullet list"><br>
+  - You will be given additional suggestions on how to refine your search prompt, but for now, scroll down the web page and read the "Proposed Search Topic." If the search topic looks reasonable to you, press the **Generate Research Report** button at the bottom of the page.
      - The report should take between 5 and 8 minutes to generate. You can track the progress of what it's working on by monitoring the "Search Progress" on the right half of the page.
      - You can also see an "example report" by clicking on the **See an example report** purple button towards the right side of the page while you wait for your report to be generated.
-     - Please remember that
+     - Please remember that<br>
+<img src="images/5-undermind-gen-search.png" style="width:600px;" alt="Image showing the Generate Research Report dialogue box."><br>
 2. Let's look at the report results!
   - **Discuss results with an expert**: If you have any follow-up questions that came to mind **while you were waiting for the report to generate**, you can ask them here. Don't feel the need to ask them right away, as you can always ask them later. Based on the results, you could ask a follow-up question like this: ```Are there empirical studies that look at the students' perspective on how effective they think informal credentials are in helping them get a job?```
   - **Key Findings & Limitations**: This section is created by Generative AI, so care should be taken to verify claims by going to the source document. Note that there are links after every claim to the papers that Undermind used as sources.
@@ -39,7 +39,7 @@ If you have any questions or get stuck as you work through this in-class GenAI e
     - Do you notice any high-quality articles that you already know about that are missing? If you used the provided search, there is at least one article that is missing: [Makerspace Workshop Badges: Student Perceptions & Uses of Informal Credentialing](https://ijamm.pubpub.org/pub/w2c3tfk4){:target="_blank"}<br>
 <img src="images/4-undermind-findings.png" style="width:700px;" alt="Key Findings information.">
   - **Categories**: The categories section uses GenAI to summarize different aspects of the topic(s) you are researching, and provides links to the source journal articles for the claims made. This can be a useful way to find articles for subtopics you are interested in or would like to focus on.
-  - **Timeline**: 
+  - **Timeline**: Give you a graph of references over time by year so that you can get a sense for when the most relevant research to your questions was conducted, as well as the trend in the amount of research being done.
   - **Foundational work**: 
   - **Adjacent work**: 
   - **References**: <br>
