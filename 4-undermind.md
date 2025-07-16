@@ -11,7 +11,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 <img src="images/undermind-logo.png" style="float:right;width:400px;" alt="Undermind.ai logo">
 
 - Undermind.ai is a research assistant that employs both AI and GenAI to help you find articles relevant to your research questions. It uses AI tools to find related articles and then uses GenAI to summarize the contents of resources.
-- **As always with GenAI summaries, you can't depend on the summaries being 100% accurate all the time!** Please read the underlying articles before you quote or summarize information from an article.
+- **As always with GenAI summaries, you can't depend on the summaries being 100% accurate all the time!** Please read the underlying articles and **only quote or summarize information from the underlying article**.
 -  Undermind.ai is a useful tool, but please remember that it doesn ot have access to the whole universe of journal articles and peer-reviewed resources. The primary source of its training data sources is the [Semantic Scholar](https://www.semanticscholar.org/){:target="_blank"} which is database of select academic journals, so you'll want to use other tools in conjunction with Undermind.ai, like [Google Scholar](https://scholar.google.ca/){:target="_blank"} for example, so that you don't miss any important papers on your research topic that Undermind.ai does not have access to.
 - **When you sign up to access Undermind.ai, you are given 2 free "deep" searches that search the full text of all the articles.** After that, unless you sign up for their paid level of service, Undermind.ai only searches the abstracts of articles to respond to your request and not the full text.
 
