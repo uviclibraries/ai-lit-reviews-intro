@@ -13,15 +13,14 @@ nav_order: 1
 
 ## About the Workshop 
 
-Workshop participants will explore the use of Generative AI (GenAI) to assist with Student Research for idea generation, and literature reviews, and consider ethical considerations such as plagiarism, privacy, and research integrity. Participants will gain a basic understanding of GenAI and the ethical implications of its use in student research. In the hands-on portion of the workshop, participants will explore GenAI tool usage and output evaluation for accuracy and biases. The workshop will also cover UVic policies, attribution methods, library resource integration, and campus support services, to encourage informed, responsible GenAI use.
+Workshop participants will explore the use of Artificial Intelligence (AI) to assist with literature reviews and consider ethical considerations such as plagiarism, privacy, and research integrity. Participants will gain a basic understanding of a handful of AI-powered literature review tools as well as the ethical implications of their use in research. In the hands-on portion of the workshop, participants will explore AI literature review tools and evaluate outputs for accuracy and biases.
 
 ## Learning objectives
 
 At the end of this workshop, you will be able to:
 
-1. Ethical Considerations: Discuss the ethical implications of using GenAI in academic work, including issues related to plagiarism, data privacy, and research integrity.
-2. Apply strategies such as critical review of terms and conditions, and adjustments to privacy settings to address AI ethics and safety issues.
-3. Identify specific use cases for a range of AI tools for literature reviews.
+1. Ethical Considerations: Discuss the ethical implications of using AI tools for literature reviews, including issues related to plagiarism, data privacy, and research integrity.
+2. Identify specific use cases for a range of AI tools for literature reviews.
 4. Demonstrate how to use AI tools effectively for literature reviews and other research purposes
 5. Evaluate Quality and Reliability: Critically evaluate the outputs of AI tools, including assessing accuracy, relevance, and potential biases.
 6. Attribution: Cite outputs from GenAI tools using APA, MLA, IEEE, or other citation styles.
