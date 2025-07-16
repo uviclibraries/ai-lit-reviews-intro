@@ -32,14 +32,16 @@ If you have any questions or get stuck as you work through this in-class GenAI e
   - You can also see an "example report" by clicking on the **See an example report** purple button towards the right side of the page while you wait for your report to be generated.
   - Please remember that
 2. Let's look at the report results!
-  - **Discuss results with an expert**: If you have any follow up questions that came to mind while you were waiting for the report to generate, you can ask them here. Don't feel the need to ask them right away, as you can always ask them later. Based on the results, you could ask a follow-up question like this: ```Are there empirical studies that look at the students' perspective on how effective they think informal credentials are in helping them get a job?```<br>
-  <img src="images/4-undermind-help.png" style="float:right;width:400px;" alt="Undermind.ai help interface"><br>
-  - **Key Findings & Limitations**: 
+  - **Discuss results with an expert**: If you have any follow up questions that came to mind while you were waiting for the report to generate, you can ask them here. Don't feel the need to ask them right away, as you can always ask them later. Based on the results, you could ask a follow-up question like this: ```Are there empirical studies that look at the students' perspective on how effective they think informal credentials are in helping them get a job?```
+  - **Key Findings & Limitations**: <br>
+<img src="images/4-undermind-findings.png" style="width:600px;" alt="Key Findings information."><br>
   - **Categories**: 
   - **Timeline**: 
   - **Foundational work**: 
   - **Adjacent work**: 
-  - **References**: 
+  - **References**: <br>
+<img src="images/4-undermind-help.png" style="float:right;width:400px;" alt="Undermind.ai help interface"><br>
+  - **Undermind followup queries**: 
 3. Reflection time:
 >  - How useful do the articles look for your search?
 >  - Compared to the Google Scholar results how high is the quality of the articles Elicit found?
