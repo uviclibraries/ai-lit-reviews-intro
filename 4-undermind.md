@@ -37,16 +37,16 @@ If you have any questions or get stuck as you work through this in-class GenAI e
 <img src="images/4-undermind-findings.png" style="width:700px;" alt="Key Findings information.">
   - **Categories**: The categories section uses GenAI to summarize different aspects of the topic(s) you are researching, and provides links to the source journal articles for the claims made. This can be a useful way to find articles for subtopics you are interested in or would like to focus on.
   - **Timeline**: Give you a graph of references over time by year so that you can get a sense for when the most relevant research to your questions was conducted, as well as the trend in the amount of research being done. The Timeline also provides a history of the development of ideas, and links to the relevant papers as the academic conversation on this topic progressed. Research clusters are also identified with related citations. Lastly, key contributions and conceptual shifts over time.
-  - **Foundational work**: 
-  - **Adjacent work**: 
-  - **References**: <br>
+  - **Foundational work**: This section attempts to identify foundational work.
+  - **Adjacent work**: This section might help you identify other high-quality work that might not be directly related to your research topic, but might be helpful nonetheless.
+  - **References**: Lastly is the reference section at the bottom that is a table of research papers that Undermind.ai is citing and summarizing. Note that an estimated percentage relevance to your topic percentage is provided along with the publishing date, citation count, and GenAI summary of the paper.<br>
 <img src="images/4-undermind-help.png" style="float:right;width:400px;" alt="Undermind.ai follow up queries"><br>
   - **Undermind followup queries**: 
 3. Reflection time:
->  - How useful do the articles look for your search?
->  - Compared to the Google Scholar results how high is the quality of the articles Elicit found?
->  - Does the combined 4 article summary look reasonable?
->  - How can you verify the accuracy of the summary?
+>  - How useful are the articles Undermind.ai found are for your search?
+>  - Compared to the Google Scholar results how high is the quality of the articles Undermind.ai found?
+>  - Do the GenAI summaries look reasonable? 
+>  - Have you verified major claims related to your research question for accuracy?
 >  - Does this look like a tool that could help you with your research?
 
 [NEXT STEP: Cite Correctly](9-cite.html){: .btn .btn-blue }
