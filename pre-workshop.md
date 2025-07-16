@@ -15,6 +15,8 @@ This workshop consists of a small amount of instruction so that most of the sche
 
 To be ready to jump right into the interactive activities during the workshop, **please watch these short videos beforehand**:
 
+- [How Undermind.ai can help you find sources and create more focused research queries](https://www.youtube.com/watch?v=fXXFR9QglhE){:target="_blank"} (2 min)<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fXXFR9QglhE" title="Undermind.ai introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [What different types of Artificial Intelligence (AI) & how Generative AI relates to other forms of AI](https://www.youtube.com/watch?v=Yq0QkCxoTHM){:target="_blank"} (10 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yq0QkCxoTHM" title="Artificial Intelligence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
